@@ -28,11 +28,6 @@ Right now I’m focused on a **lightweight NPC Life Simulator** for believable N
 <div align="center">
 
 <img
-  height="165"
-  src="https://streak-stats.demolab.com/?user=skycrown101&hide_border=true"
-/>
-
-<img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=skycrown101&theme=github-compact&hide_border=true"
 />
