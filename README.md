@@ -1,4 +1,4 @@
-# Hi i'm Sky Sink
+# Hi
 
 Making Roblox proj
 Right now I’m focused on a **lightweight NPC Life Simulator** for believable NPC routines without npc AI / expensive pathing spam.
