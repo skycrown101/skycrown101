@@ -25,11 +25,3 @@ Right now I’m focused on a **lightweight NPC Life Simulator** for believable N
 
 - Handle: FRONTIER#4784
 
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=skycrown101&theme=github-compact&hide_border=true"
-/>
-
-</div>
